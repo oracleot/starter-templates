@@ -22,4 +22,4 @@
     ProfileHeader.css
     ProfileAPI.js
 
-Read more in [React Doc](https://reactjs.org/docs/faq-structure.html)
+Read more in [React's Official Documentation](https://reactjs.org/docs/faq-structure.html)
