@@ -18,4 +18,4 @@ _[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d
 ### Next step:
 To adapt the structure of this starter-template, simply clone this branch into your project
 
-    $ git clone -b jekyll-template https://github.com/oracleot/starter-templates.git
+    $ git clone -b react-template https://github.com/oracleot/starter-templates.git
