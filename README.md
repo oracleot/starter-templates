@@ -4,11 +4,13 @@ This template is created using [Creat React App](https://github.com/facebook/cre
 To start the project, simply run:
 
     $ npx create-react-app project-name
+    $ cd project-name
+    $ npm start
 
 _[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)_ is a package-runner tool that comes with npm 5.2+.   
-Replace *_project-name_* in the command with your real project name.   
-Then, change your directory into the project by running this command: `$ cd project-name`.   
-Finally, run: `$ npm start` to start your React project.
+If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` to ensure that npx always uses the latest version.
+`cd project-name` changes your directory into your React project directory.   
+`npm start` starts the app at `http://localhost:3000/` except you changed your port from 3000.
 
 ### Next step:
 To adapt the structure of this starter-template, simply clone this branch into your project
