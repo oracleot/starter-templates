@@ -8,6 +8,7 @@ To start the project, simply run:
     $ npm start
 
 `npx create-react-app project-name` bootstraps a new React app in a directory named project-name.   
+
 _[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)_ is a package-runner tool that comes with npm 5.2+.   
 **Note:** If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` to ensure that npx always uses the latest version.
 
