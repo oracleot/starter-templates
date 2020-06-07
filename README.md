@@ -9,6 +9,7 @@ To start the project, simply run:
 
 _[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)_ is a package-runner tool that comes with npm 5.2+.   
 **Note:** If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` to ensure that npx always uses the latest version.
+
 `cd project-name` changes your directory into your React project directory.   
 `npm start` starts the app at `http://localhost:3000/` except you changed your port from 3000.
 
