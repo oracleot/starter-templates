@@ -6,7 +6,7 @@ To start the project, simply run:
     npx create-react-app *project-name*
 
 **[npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)** is a package-runner tool that comes with npm 5.2+.   
-Replace *project-name* in the command to your real project name.   
+Replace *project-name* in the command with your real project name.   
 Then, change your directory into the project by running this command: `cd project-name`.   
 Finally, run: `npm start` to start your React project.
 
