@@ -3,6 +3,6 @@ Different starter templates for different libraries and frameworks for quick pro
 
 Clone from your desired branch to use the template
 
-  $ git clone -b <branch> <remote_repo>
+`$ git clone -b <branch> <remote_repo>`
 
 Happy Prototyping!
