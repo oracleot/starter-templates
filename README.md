@@ -1,5 +1,5 @@
 # Jekyll
-### A basic Jekyll site usually looks something like this:
+This template is built on the basic Jekyll site structure as described [here](https://jekyllrb.com/docs/structure/)
 
     .
     ├── _config.yml
@@ -24,4 +24,5 @@
     ├── .jekyll-metadata
     └── index.html # can also be an 'index.md' with valid front matter
 
-Read more in [Jekyll Doc](https://jekyllrb.com/docs/structure/)
+### Next Step:
+
